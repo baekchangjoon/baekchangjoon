@@ -2,6 +2,8 @@
 
 I build developer tools around **testing, code quality, and LLM coding agents**.
 
+📝 [Medium](https://medium.com/@changjoon-baek) · 💼 [LinkedIn](https://www.linkedin.com/in/changjoon-baek-39092911b)
+
 ## 🔧 Projects
 
 | Project | What it does |
