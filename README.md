@@ -6,7 +6,6 @@ I build developer tools around **testing, code quality, and LLM coding agents**.
 
 | Project | What it does |
 |---|---|
-| [VcsStatistics](https://github.com/baekchangjoon/VcsStatistics) | Developer performance evaluation — quantitative GitHub/GitLab/Jira/Confluence activity collection + qualitative LLM review |
 | [atlassian-browser-skills](https://github.com/baekchangjoon/atlassian-browser-skills) | Read/write Jira & Confluence from an LLM agent via your logged-in local browser — no API token, no MCP |
 | [hotspot-analysis](https://github.com/baekchangjoon/hotspot-analysis) | Rank Java code by a deterministic Composite Hotspot Score (churn × complexity × coverage gap) to prioritize test generation |
 | [encrypted-memory](https://github.com/baekchangjoon/encrypted-memory) | Encrypt LLM agent memory files at rest (age-based); decrypt only in unlocked sessions |
